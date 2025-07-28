@@ -1,4 +1,4 @@
-# Granny's Recipe Book 📖🍲
+# My Recipe Book 📖🍲
 
 A simple Android app built in **Kotlin** (using Android Studio) that allows users to add, view, and organize family recipes.  
 The app uses arrays, loops, and screen navigation, and stores recipes with categories, ratings, and ingredients.
@@ -66,7 +66,7 @@ The app uses arrays, loops, and screen navigation, and stores recipes with categ
 ## 🚀 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone:   
+   git clone:  https://github.com/Londiwe-803/MyRecipeBook/tree/master 
 Open the project in Android Studio.
 
 Sync Gradle and build the project.
